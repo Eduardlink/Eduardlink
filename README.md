@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋😁, Yo soy Eduardo</h1>
 <p align="center"><img src="https://i.postimg.cc/5t4KhrRN/Banner.png" width= 100%></p>
-<h3 align="center">Un joven estudiante apasionado por el mundo de la tecnologia. Aunque el diseño y creacion de contenido multimedia es mi pasatiempos favorito. Me gusta participar en eventos para ampliar mis conocimientos, dado a ello es que he busco prepararme en la plataforma Alura.</h3>
+<h3 align="center">Un joven estudiante apasionado por el mundo de la tecnologia. Aunque el diseño y creacion de contenido multimedia es mi pasa tiempo favorito. Me gusta participar en eventos para ampliar mis conocimientos, dado a ello es que he busco prepararme en la plataforma Alura.</h3>
 
 <h3 align="left">Puedes encontrarme en mis redes sociales:</h3>
 <p align="left">
