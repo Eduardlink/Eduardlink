@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/VLdpG9Gv/Mesa-de-trabajo-3-4x.png" width= 100%></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Eduardlink/Eduardlink.github.io/main/public/Banner.png" width= 100%></p>
 
 <h1  align="center"> Hola 👋😁, Yo soy Eduardo</h1>
 
