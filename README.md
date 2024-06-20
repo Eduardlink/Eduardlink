@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Eduardlink/Eduardlink.github.io/main/public/Banner.png" width= 100%></p>
-
 <h1  align="center"> Hola 👋😁, Yo soy Eduardo</h1>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Eduardlink/Eduardlink.github.io/main/public/Banner.png" width= 100%></p>
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=eduardlink&label=Profile%20views&color=0e75b6&style=flat"  alt="eduardlink"  />  </p>
 
